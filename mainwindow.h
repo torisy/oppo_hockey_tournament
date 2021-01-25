@@ -5,6 +5,10 @@
 #include "autorisation.h"
 #include "registration.h"
 #include <QFile>
+#include "players.h"
+#include "teams.h"
+#include "matches.h"
+#include "autorisation.h"
 #include <QDebug>
 #include <QMessageBox>
 QT_BEGIN_NAMESPACE
