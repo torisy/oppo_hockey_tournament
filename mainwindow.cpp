@@ -1,9 +1,5 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "players.h"
-#include "teams.h"
-#include "matches.h"
-#include "autorisation.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
